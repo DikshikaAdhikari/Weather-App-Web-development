@@ -105,25 +105,25 @@ dateTime.innerText = new Date().toLocaleString("en-US",options);
 
 if(icon=="Clear"){
 
-weatherIcon.src="images/clear.png";
+weatherIcon.src="clear.png";
 
 }
 
 else if(icon=="Clouds"){
 
-weatherIcon.src="images/cloud.jpg";
+weatherIcon.src="cloud.jpg";
 
 }
 
 else if(icon=="Rain"){
 
-weatherIcon.src="images/rain.jpg";
+weatherIcon.src="rain.jpg";
 
 }
 
 else if(icon=="Snow"){
 
-weatherIcon.src="images/snow.jpg";
+weatherIcon.src="snow.jpg";
 
 }
 
